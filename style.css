@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  stroke: black;
+  stroke-width: 5px;
+}
+
+.italic {
+  font-style: italic;
+}
